@@ -1,4 +1,3 @@
-print_array.c
 #include <stdlib.h>
 #include <stdio.h>
 
